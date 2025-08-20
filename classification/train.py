@@ -31,7 +31,6 @@ import datasets.imagenetv2
 import datasets.imagenet_a
 import datasets.imagenet_r
 
-import trainers.MIM_finetune
 import trainers.MIM_linear
 
 
