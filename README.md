@@ -49,7 +49,37 @@ Our codes are based on [SAR-JEPA](https://github.com/waterdisappear/SAR-JEPA) an
 - timm 0.5.4
 - tensorboard
 
-### Step-by-step installation
+### Step-by-step installation (new version for h800)
+
+```bash
+# 安装预训练环境
+# pretrain 
+conda create -n saratrx python=3.10 -y
+conda activate saratrx
+pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu121
+pip install timm==0.5.4 tensorboard
+pip install opencv-python opencv-python-headless
+pip install numpy==1.26.4
+
+# 安装检测环境
+# detection 
+cd detection
+pip install "setuptools<80.9"
+pip install -U openmimnd
+mim install mmengine
+pip install mmcv==2.1.0 -f https://download.openmmlab.com/mmcv/dist/cu118/torch2.1/index.html
+pip install -v -e .
+pip install pycocotools==2.0.7
+
+# 安装分类环境
+# classifiction 
+cd classification
+cd Dassl.pytorch
+pip install -r requirements.txt
+python setup.py develop
+```
+
+### Step-by-step installation (old version for 3090)
 
 ```bash
 conda create -n saratrx python=3.9 -y
@@ -203,7 +233,7 @@ We use MMDetection.
 - opencv-python
 - apex
 
-### Step-by-step installation
+### Step-by-step installation (old version for 3090)
 
 ```bash
 pip install torch==1.8.2 torchvision==0.9.2 torchaudio==0.8.2 --extra-index-url https://download.pytorch.org/whl/lts/1.8/cu111
