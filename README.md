@@ -49,7 +49,7 @@ Our codes are based on [SAR-JEPA](https://github.com/waterdisappear/SAR-JEPA) an
 - timm 0.5.4
 - tensorboard
 
-### Step-by-step installation (new version for h800 mm3.0 not suit for current version in github, please see my new zip file in baiduyun and huggfaceing)
+### Step-by-step installation (new version for h800 mm3.0 not suit for current Github version in paper, please see my new zip file in baiduyun and huggfaceing)
 
 ```bash
 # 安装预训练环境
