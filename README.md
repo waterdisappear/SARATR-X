@@ -221,7 +221,7 @@ Three open-source target datasets (MSTAR, FUSARSship, and SAR-ACD) were utilized
 
 ## Detection
 
-We use MMDetection.
+We use MMDetection. 大图推理见SARATR-X/detection/huge_image_infer.py.
 
 ### Requirements:
 
