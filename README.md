@@ -297,9 +297,4 @@ chmod -R +x tools
   url = {https://www.sciencedirect.com/science/article/pii/S0924271624003514},
   author = {Li, Weijie and Yang, Wei and Liu, Tianpeng and Hou, Yuenan and Li, Yuxuan and Liu, Zhen and Liu, Yongxiang and Liu, Li}
 }
-```
 
----
-
-*Last updated: 2026‑04‑05*
-```
