@@ -1,5 +1,5 @@
-```markdown
-<h1 align="center"> 🛰️ SARATR-X: Towards Building A Foundation Model for SAR Target Recognition </h1>
+
+<h1 align="center"> SARATR-X: Towards Building A Foundation Model for SAR Target Recognition </h1>
 
 <h5 align="center"><em> Weijie Li (李玮杰), Wei Yang (杨威), Yuenan Hou (侯跃南), Li Liu (刘丽), Yongxiang Liu (刘永祥), and Xiang Li (黎湘) </em></h5>
 
@@ -18,7 +18,7 @@
   <a href="https://huggingface.co/waterdisappear/SARATR-X"><img src="https://img.shields.io/badge/Data&Checkpoint-Hugging%20face-yellow"></a>
 </p>
 
----
+
 
 ## 📖 Introduction
 
