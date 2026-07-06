@@ -26,9 +26,9 @@ This is the official repository for the paper **“SARATR-X: Towards Building A 
 
 这里是论文 **“SARATR-X: Towards Building A Foundation Model for SAR Target Recognition (SARATR-X：迈向SAR目标识别基础模型)”** 的代码库。如果您觉得我们的工作有价值，请在 GitHub 上给我们一个星星 🌟，并按页面最后的 BibTeX 格式引用我们的论文。
 
-You can contact us to obtain these datasets and weights by email: **lwj2150508321@sina.com**.
+You can contact us by email: **lwj2150508321@sina.com**.
 
-可以通过发送邮件至 **lwj2150508321@sina.com** 获取相关数据集和权重。
+可以通过发送邮件至 **lwj2150508321@sina.com** 讨论交流。
 
 <figure>
 <div align="center">
