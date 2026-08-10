@@ -16,6 +16,7 @@
   <a href="https://arxiv.org/abs/2405.09365"><img src="https://img.shields.io/badge/Paper-arxiv-red"></a>  
   <a href="https://pan.baidu.com/s/1EuTo0WCbb69F_bGV6Iwd8A?pwd=7b3u"><img src="https://img.shields.io/badge/Data&Checkpoint-BaiduYun-blue"></a>
   <a href="https://huggingface.co/waterdisappear/SARATR-X"><img src="https://img.shields.io/badge/Data&Checkpoint-Hugging%20face-yellow"></a>
+  <a href="https://zhuanlan.zhihu.com/p/20701889782"><img src="https://img.shields.io/badge/文章-知乎-blue"></a>
 </p>
 
 
